@@ -1,0 +1,2 @@
+# SuperCoolBots
+Discord bots
